@@ -1,0 +1,19 @@
+.wrapper {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 30px;
+	margin-top: 30px;
+}
+
+.keyWord {
+	padding: 5px 10px;
+	border: 1px solid #312e3c;
+	border-radius: 10px;
+	display: flex;
+	color: grey;
+}
+
+.keyWord span:last-child {
+	color: white;
+	margin-left: 5px;
+}

@@ -1,0 +1,9 @@
+.content {
+	margin-top: 15px;
+	display: flex;
+	flex-direction: column;
+	.show {
+		color: #0089fc;
+		cursor: pointer;
+	}
+}
